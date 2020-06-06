@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482466318761",
+    "firebase_url": "https://smartgardener-833c2.firebaseio.com",
+    "project_id": "smartgardener-833c2",
+    "storage_bucket": "smartgardener-833c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482466318761:android:01be5b25ec155a0f3adcb8",
+        "android_client_info": {
+          "package_name": "app.vit.smartgardener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482466318761-f5rsfb96u08824agqcjndal7sukb5p7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.vit.smartgardener",
+            "certificate_hash": "7ba80374ca3899727cd8b2c19daf1238a6809434"
+          }
+        },
+        {
+          "client_id": "482466318761-n7j6270icl86ciluoomchisi4kq8qnrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxu37izyJyIy5WlxcwGjHCQXkHxAnDDVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482466318761-n7j6270icl86ciluoomchisi4kq8qnrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

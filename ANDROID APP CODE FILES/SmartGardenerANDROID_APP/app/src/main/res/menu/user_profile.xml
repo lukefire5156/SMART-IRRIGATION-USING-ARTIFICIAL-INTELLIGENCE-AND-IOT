@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="LOGOUT"
+        app:showAsAction="never"/>-->
+<item
+    android:id="@+id/logout_ic"
+    android:icon="@drawable/ic_logout"
+    android:title=""
+    app:showAsAction="always">
+    <menu>
+        <item
+            android:id="@+id/action_logout"
+            android:orderInCategory="100"
+            android:title="LOGOUT"
+            app:showAsAction="never"/>
+    </menu>
+</item>
+</menu>
