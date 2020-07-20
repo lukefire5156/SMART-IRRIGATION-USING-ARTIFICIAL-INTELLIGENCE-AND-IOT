@@ -9,4 +9,7 @@ The farm can be technologized with electronic innovation that constantly screens
 ## FLOW CHART
 ![here](https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/flowchart.png)
 
+## CIRCUIT BLUEPRINT
+![here](https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/Blueprint.PNG)
+
 
