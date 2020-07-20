@@ -12,4 +12,11 @@ The farm can be technologized with electronic innovation that constantly screens
 ## CIRCUIT BLUEPRINT
 ![here](https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/Blueprint.PNG)
 
+## HARDWARE DEVICE
+<img src="https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/IMG_20200603_165151_HDR.png" width="800" height="500">
 
+## ANDROID APPLICATION SCREENSHOTS
+<img src="https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/Screenshot_20200603-175231.png" width="250" height="400">
+<img src="https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/Screenshot_20200603-175243.png" width="250" height="400">
+<img src="https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/Screenshot_20200603-175255.png" width="250" height="400">
+<img src="https://github.com/lukefire5156/SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/blob/master/ss/Screenshot_20200603-175300.png" width="250" height="400">
